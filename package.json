@@ -1,0 +1,25 @@
+{
+  "name": "pertemuan4_git_npm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "fol": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azrilachmad/pertemuan4_git_npm.git"
+  },
+  "author": "Azril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azrilachmad/pertemuan4_git_npm/issues"
+  },
+  "homepage": "https://github.com/azrilachmad/pertemuan4_git_npm#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
